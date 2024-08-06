@@ -11,7 +11,7 @@
   <img src="img/Tribute_Page_Image.PNG" alt="Tribute Page Image" />
 </p>
 
-## Installation
+## Installation and Usage
 
 To view the tribute page locally, follow these steps:
 
